@@ -1,0 +1,13 @@
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.exe
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.deps.json
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.runtimeconfig.json
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.runtimeconfig.dev.json
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.dll
+D:\uni\mod-lab07-server\client_server\client_server\bin\Debug\netcoreapp3.1\client_server.pdb
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.csprojAssemblyReference.cache
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.AssemblyInfoInputs.cache
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.AssemblyInfo.cs
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.csproj.CoreCompileInputs.cache
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.dll
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.pdb
+D:\uni\mod-lab07-server\client_server\client_server\obj\Debug\netcoreapp3.1\client_server.genruntimeconfig.cache
