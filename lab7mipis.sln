@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7mipis", "lab7mipis\lab7mipis.csproj", "{5513D3FB-6668-498E-AC04-42F22ECD61DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5513D3FB-6668-498E-AC04-42F22ECD61DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5513D3FB-6668-498E-AC04-42F22ECD61DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5513D3FB-6668-498E-AC04-42F22ECD61DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5513D3FB-6668-498E-AC04-42F22ECD61DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89220DE-0A7A-4194-81EE-EFD1375A86FF}
+	EndGlobalSection
+EndGlobal
