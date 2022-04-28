@@ -1,0 +1,14 @@
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.exe
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.deps.json
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.runtimeconfig.json
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.runtimeconfig.dev.json
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.dll
+C:\Users\123\source\repos\SMO\SMO\bin\Debug\netcoreapp3.1\SMO.pdb
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.AssemblyInfo.cs
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.dll
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.pdb
+C:\Users\123\source\repos\SMO\SMO\obj\Debug\netcoreapp3.1\SMO.genruntimeconfig.cache
