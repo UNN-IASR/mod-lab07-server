@@ -1,0 +1,15 @@
+F:\web\clientserver\clientserver\bin\Debug\net6.0\clientserver.exe
+F:\web\clientserver\clientserver\bin\Debug\net6.0\clientserver.deps.json
+F:\web\clientserver\clientserver\bin\Debug\net6.0\clientserver.runtimeconfig.json
+F:\web\clientserver\clientserver\bin\Debug\net6.0\clientserver.dll
+F:\web\clientserver\clientserver\bin\Debug\net6.0\clientserver.pdb
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.csproj.AssemblyReference.cache
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.AssemblyInfoInputs.cache
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.AssemblyInfo.cs
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.csproj.CoreCompileInputs.cache
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.dll
+F:\web\clientserver\clientserver\obj\Debug\net6.0\refint\clientserver.dll
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.pdb
+F:\web\clientserver\clientserver\obj\Debug\net6.0\clientserver.genruntimeconfig.cache
+F:\web\clientserver\clientserver\obj\Debug\net6.0\ref\clientserver.dll
