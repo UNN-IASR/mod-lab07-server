@@ -1,0 +1,16 @@
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.exe
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.deps.json
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.runtimeconfig.json
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.runtimeconfig.dev.json
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.dll
+F:\web\clientserver007\clientserver007\bin\Debug\net5.0\clientserver007.pdb
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.csproj.AssemblyReference.cache
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.AssemblyInfoInputs.cache
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.AssemblyInfo.cs
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.csproj.CoreCompileInputs.cache
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.dll
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\refint\clientserver007.dll
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.pdb
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\clientserver007.genruntimeconfig.cache
+F:\web\clientserver007\clientserver007\obj\Debug\net5.0\ref\clientserver007.dll
