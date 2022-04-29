@@ -1,0 +1,15 @@
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.csproj.AssemblyReference.cache
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.AssemblyInfoInputs.cache
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.AssemblyInfo.cs
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.csproj.CoreCompileInputs.cache
+F:\web\mod-lab07-server\clientserver7\bin\Debug\net6.0\clientserver7.exe
+F:\web\mod-lab07-server\clientserver7\bin\Debug\net6.0\clientserver7.deps.json
+F:\web\mod-lab07-server\clientserver7\bin\Debug\net6.0\clientserver7.runtimeconfig.json
+F:\web\mod-lab07-server\clientserver7\bin\Debug\net6.0\clientserver7.dll
+F:\web\mod-lab07-server\clientserver7\bin\Debug\net6.0\clientserver7.pdb
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.dll
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\refint\clientserver7.dll
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.pdb
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\clientserver7.genruntimeconfig.cache
+F:\web\mod-lab07-server\clientserver7\obj\Debug\net6.0\ref\clientserver7.dll
