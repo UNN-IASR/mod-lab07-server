@@ -7,13 +7,13 @@ namespace clientserver7
     {
         static void Main(string[] args)
         {
-            Server server = new Server(5, 20);
+            Server server = new Server(5, 200);
             Client client = new Client(server);
 
             for (int i = 1; i <= 100; i++)
             {
                 client.proc(i);
-                Thread.Sleep(5);
+                Thread.Sleep(40);
             }
 
             Console.WriteLine();
