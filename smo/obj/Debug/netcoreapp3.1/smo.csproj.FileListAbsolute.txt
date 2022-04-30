@@ -1,0 +1,13 @@
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.exe
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.deps.json
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.runtimeconfig.json
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.runtimeconfig.dev.json
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.dll
+C:\Users\ПК\source\repos\smo\smo\bin\Debug\netcoreapp3.1\smo.pdb
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.AssemblyInfo.cs
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.dll
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.pdb
+C:\Users\ПК\source\repos\smo\smo\obj\Debug\netcoreapp3.1\smo.genruntimeconfig.cache
