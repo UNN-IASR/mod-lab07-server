@@ -1,0 +1,14 @@
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.exe
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.deps.json
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.runtimeconfig.json
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.runtimeconfig.dev.json
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.dll
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\bin\Debug\netcoreapp3.1\07_Server.pdb
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.dll
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.pdb
+C:\Users\Владимир\source\repos\07_Server\mod-lab07-server\07_Server\obj\Debug\netcoreapp3.1\07_Server.genruntimeconfig.cache
