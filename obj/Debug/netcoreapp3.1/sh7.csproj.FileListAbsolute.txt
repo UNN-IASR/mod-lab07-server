@@ -1,0 +1,14 @@
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.exe
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.deps.json
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.runtimeconfig.json
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.runtimeconfig.dev.json
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.dll
+D:\sh7\bin\Debug\netcoreapp3.1\sh7.pdb
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.csproj.AssemblyReference.cache
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.GeneratedMSBuildEditorConfig.editorconfig
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.AssemblyInfoInputs.cache
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.AssemblyInfo.cs
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.csproj.CoreCompileInputs.cache
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.dll
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.pdb
+D:\sh7\obj\Debug\netcoreapp3.1\sh7.genruntimeconfig.cache
