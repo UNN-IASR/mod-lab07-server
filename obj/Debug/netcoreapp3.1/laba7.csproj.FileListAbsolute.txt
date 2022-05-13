@@ -1,0 +1,14 @@
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.exe
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.deps.json
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.runtimeconfig.json
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.runtimeconfig.dev.json
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.dll
+D:\laba7\bin\Debug\netcoreapp3.1\laba7.pdb
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.csproj.AssemblyReference.cache
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.GeneratedMSBuildEditorConfig.editorconfig
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.AssemblyInfoInputs.cache
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.AssemblyInfo.cs
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.csproj.CoreCompileInputs.cache
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.dll
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.pdb
+D:\laba7\obj\Debug\netcoreapp3.1\laba7.genruntimeconfig.cache
