@@ -1,0 +1,14 @@
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.exe
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.deps.json
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.runtimeconfig.json
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.runtimeconfig.dev.json
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.dll
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\bin\Debug\netcoreapp3.0\MSS.pdb
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.csproj.AssemblyReference.cache
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.AssemblyInfoInputs.cache
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.AssemblyInfo.cs
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.csproj.CoreCompileInputs.cache
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.dll
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.pdb
+C:\Users\Makskyreer\Desktop\mod-task07-server-main\MSS\obj\Debug\netcoreapp3.0\MSS.genruntimeconfig.cache
