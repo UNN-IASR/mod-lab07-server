@@ -1,0 +1,99 @@
+Input data:
+Processing time per application - 0,1 S
+Intensity of receipt of applications-1000 PCS/S
+Number of channels- 5
+
+Total applications: 100
+Applications processed: 53
+Applications rejected: 47
+Server Downtime Probability: 0
+Server Failure Probability: 0,95
+Relative Bandwidth: 0,05
+Absolute Bandwidth: 49,48
+Average Busy Channels: 4,95
+
+Total applications: 100
+Applications processed: 46
+Applications rejected: 54
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 41,31
+Average Busy Channels: 4,96
+
+Total applications: 100
+Applications processed: 47
+Applications rejected: 53
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 40,97
+Average Busy Channels: 4,96
+
+Total applications: 100
+Applications processed: 49
+Applications rejected: 51
+Server Downtime Probability: 0
+Server Failure Probability: 0,95
+Relative Bandwidth: 0,05
+Absolute Bandwidth: 45,03
+Average Busy Channels: 4,95
+
+Total applications: 100
+Applications processed: 49
+Applications rejected: 51
+Server Downtime Probability: 0
+Server Failure Probability: 0,95
+Relative Bandwidth: 0,05
+Absolute Bandwidth: 45,44
+Average Busy Channels: 4,95
+
+Input data:
+Processing time per application - 0,5 S
+Intensity of receipt of applications-500 PCS/S
+Number of channels- 10
+
+Total applications: 100
+Applications processed: 30
+Applications rejected: 70
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 19,92
+Average Busy Channels: 9,96
+
+Total applications: 100
+Applications processed: 30
+Applications rejected: 70
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 19,76
+Average Busy Channels: 9,96
+
+Total applications: 100
+Applications processed: 30
+Applications rejected: 70
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 19,53
+Average Busy Channels: 9,96
+
+Total applications: 100
+Applications processed: 30
+Applications rejected: 70
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 18,79
+Average Busy Channels: 9,96
+
+Total applications: 100
+Applications processed: 30
+Applications rejected: 70
+Server Downtime Probability: 0
+Server Failure Probability: 0,96
+Relative Bandwidth: 0,04
+Absolute Bandwidth: 20,74
+Average Busy Channels: 9,96
