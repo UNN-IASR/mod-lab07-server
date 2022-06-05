@@ -1,0 +1,15 @@
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\lab7.exe
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\lab7.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\ref\lab7.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\bin\Debug\net6.0\lab7.pdb
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.pdb
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\lab5\mod-lab07-server\lab7\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
