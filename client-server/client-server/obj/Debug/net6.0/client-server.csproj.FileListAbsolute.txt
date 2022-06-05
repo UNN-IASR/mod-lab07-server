@@ -1,0 +1,15 @@
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\client-server.exe
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\client-server.deps.json
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\client-server.runtimeconfig.json
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\client-server.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\ref\client-server.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\bin\Debug\net6.0\client-server.pdb
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.csproj.AssemblyReference.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.AssemblyInfoInputs.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.AssemblyInfo.cs
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.csproj.CoreCompileInputs.cache
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\ref\client-server.dll
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.pdb
+D:\Медиа\Универ\Задания\Задания. 2021-2022\МИПИС\Репозитории\mod-lab07-server\client-server\client-server\obj\Debug\net6.0\client-server.genruntimeconfig.cache
