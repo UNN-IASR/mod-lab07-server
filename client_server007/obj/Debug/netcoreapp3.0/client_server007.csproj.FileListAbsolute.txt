@@ -1,0 +1,14 @@
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.exe
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.deps.json
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.runtimeconfig.json
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.runtimeconfig.dev.json
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.dll
+F:\web\client_server007\client_server007\bin\Debug\netcoreapp3.0\client_server007.pdb
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.csproj.AssemblyReference.cache
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.GeneratedMSBuildEditorConfig.editorconfig
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.AssemblyInfoInputs.cache
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.AssemblyInfo.cs
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.csproj.CoreCompileInputs.cache
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.dll
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.pdb
+F:\web\client_server007\client_server007\obj\Debug\netcoreapp3.0\client_server007.genruntimeconfig.cache
