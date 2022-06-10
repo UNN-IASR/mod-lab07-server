@@ -1,0 +1,15 @@
+D:\projects\МИПиС\lab7\lab7\bin\Debug\net6.0\lab7.exe
+D:\projects\МИПиС\lab7\lab7\bin\Debug\net6.0\lab7.deps.json
+D:\projects\МИПиС\lab7\lab7\bin\Debug\net6.0\lab7.runtimeconfig.json
+D:\projects\МИПиС\lab7\lab7\bin\Debug\net6.0\lab7.dll
+D:\projects\МИПиС\lab7\lab7\bin\Debug\net6.0\lab7.pdb
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.csproj.AssemblyReference.cache
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfoInputs.cache
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.AssemblyInfo.cs
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.csproj.CoreCompileInputs.cache
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.dll
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\refint\lab7.dll
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.pdb
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\lab7.genruntimeconfig.cache
+D:\projects\МИПиС\lab7\lab7\obj\Debug\net6.0\ref\lab7.dll
