@@ -4,11 +4,16 @@ using System.Threading;
 namespace TPProj {
     class Program {
         static void Main() {
-            Server server = new Server();
+            int lambda, mu;
+            lambda = Convert.ToInt32(Console.ReadLine());
+            mu  = Convert.ToInt32(Console.ReadLine());
+            int t1 = (int)(1000*1.0/lambda);
+            int t2 = (int)(1000*1.0/mu);
+            Server server = new Server(t2);
             Client client = new Client(server);
             for (int id = 1; id <= 100; id++) {
                 client.send(id);
-                Thread.Sleep(50);
+                Thread.Sleep(t1);
             }
             Console.WriteLine("Всего заявок: {0}", server.requestCount);
             Console.WriteLine("Обработано заявок: {0}", server.processedCount);
@@ -27,8 +32,10 @@ namespace TPProj {
         public int requestCount = 0;
         public int processedCount = 0;
         public int rejectedCount = 0;
-        public Server() {
+        private int time2;
+        public Server(int t2) {
             pool = new PoolRecord[5];
+            time2 = t2;
         }
         public void proc(object sender, procEventArgs e) {
             lock (threadLock) {
@@ -38,7 +45,8 @@ namespace TPProj {
                     if (pool[i].in_use == false) {
                         pool[i].in_use = true;
                         pool[i].thread = new Thread(new ParameterizedThreadStart(Answer));
-                        pool[i].thread.Start(e.id);
+                        ThreadParam tp = new ThreadParam(e.id, time2);
+                        pool[i].thread.Start(tp);
                         processedCount++;
                         return;
                     }
@@ -47,15 +55,16 @@ namespace TPProj {
             }
         }
         public void Answer(object arg) {
-            int id = (int)arg;
-            for (int i = 1; i < 9; i++) {
-                Console.WriteLine("Обработка заявки: {0}", id);
-                Console.WriteLine("{0}",Thread.CurrentThread.Name);
-                Thread.Sleep(500);
+            if (arg is ThreadParam param)
+            {
+                int id = param.ID;
+                Console.WriteLine("     Обработка заявки: {0}", id);
+                Console.WriteLine("{0}", Thread.CurrentThread.Name);
+                Thread.Sleep(param.t2);
+                for (int i = 0; i < 5; i++)
+                    if (pool[i].thread == Thread.CurrentThread)
+                        pool[i].in_use = false;
             }
-            for (int i = 0; i < 5; i++)
-                if (pool[i].thread == Thread.CurrentThread)
-                    pool[i].in_use = false;
         }
     }
 
@@ -83,5 +92,6 @@ namespace TPProj {
 
     public class procEventArgs : EventArgs {
         public int id { get; set; }
-    }
+    }  
+    record class ThreadParam(int ID, int t2);
 }
