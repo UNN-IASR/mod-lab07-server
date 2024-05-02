@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 using static System.Math;
-namespace mod_lab07_server
+namespace mod_lab07
 {
     class Program
     {
