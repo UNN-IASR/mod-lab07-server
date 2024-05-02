@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\bin\Debug\net7.0\ClientServer.exe
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\bin\Debug\net7.0\ClientServer.deps.json
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\bin\Debug\net7.0\ClientServer.runtimeconfig.json
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\bin\Debug\net7.0\ClientServer.dll
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\bin\Debug\net7.0\ClientServer.pdb
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.dll
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\refint\ClientServer.dll
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.pdb
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ClientServer.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\Колхоз\mod-lab07-server\ClientServer\obj\Debug\net7.0\ref\ClientServer.dll
