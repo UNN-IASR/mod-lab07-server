@@ -41,29 +41,7 @@ namespace mod_lab07_server
 
 
             Console.WriteLine("Среднее число занятых каналов: {0}", Math.Round(medium_count_canals, 2));
-            string path = "results.txt";
-            StreamWriter stream = new StreamWriter(path);
-            stream.Write(    "|__________________________________|\n");
-            stream.WriteLine("|Результаты полученные программой  |");
-            stream.Write(    "|__________________________________|\n");
-            stream.WriteLine("|Вероятность простоя системы: {0}  ", Math.Round(p_0, 2));
-            stream.WriteLine("|Вероятность отказа системы: {0}    ", Math.Round(P_n, 2));
-            stream.WriteLine("|Относительная пропускная способность: {0}", Math.Round(Q, 2));
-            stream.WriteLine("|Абсолютная пропускная способность: {0}", Math.Round(A, 2));
-            stream.WriteLine("|Среднее число занятых каналов: {0}", Math.Round(medium_count_canals, 2));
-            stream.Write("|__________________________________|\n");
-            stream.Write("   |__________________________________|\n\n\n");
-            stream.Write(   " |_________________________________|\n");
-            stream.WriteLine("|Результаты полученные вручную    |");
-            stream.Write("    |_________________________________|\n");
-            stream.WriteLine("|Вероятность простоя системы:   ");
-            stream.WriteLine("|Вероятность отказа системы:     ");
-            stream.WriteLine("|Относительная пропускная способность:");
-            stream.WriteLine("|Абсолютная пропускная способность: ");
-            stream.WriteLine("Среднее число занятых каналов:  ", Math.Round(medium_count_canals, 2));
-            stream.Write("|__________________________________|\n");
-            stream.Write("|__________________________________|\n\n\n");
-            stream.Close();
+           
 
 
 
