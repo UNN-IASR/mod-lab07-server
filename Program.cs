@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 using static System.Math;
-namespace mod_lab07
+namespace mod_lab07_server
 {
     class Program
     {
@@ -42,7 +42,8 @@ namespace mod_lab07
 
             Console.WriteLine("Среднее число занятых каналов: {0}", Math.Round(medium_count_canals, 2));
            
-
+            
+            
 
 
 
