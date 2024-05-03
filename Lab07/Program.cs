@@ -12,9 +12,9 @@ namespace TPProj{
         }
         static void Main()
         {
-            double applications_intensity = 0.5;
-            double service_intensity = 0.5;
-            int working_time = 10;
+            double applications_intensity = 15;
+            double service_intensity = 1;
+            int working_time = 1000;
             int capacity = 5;
             Server server = new Server(service_intensity, working_time, capacity);
             Client client = new Client(server);
@@ -23,17 +23,25 @@ namespace TPProj{
                 client.send(id);
                 Thread.Sleep(Convert.ToInt32(Math.Round(working_time/applications_intensity)));
             }
+
+            double ro = applications_intensity / service_intensity;
+            double some_sum = 0;
+            for (int i = 0; i <= capacity; i++)
+                some_sum += Math.Pow(ro, i) / factorial(i);
+            double P0 = 1 / some_sum;
+            double Pn = Math.Pow(ro, capacity) / factorial(capacity) * P0;
+
+
             Console.WriteLine("Всего заявок: {0}", server.requestCount);
             Console.WriteLine("Обработано заявок: {0}", server.processedCount);
             Console.WriteLine("Отклонено заявок: {0}", server.rejectedCount);
             Console.WriteLine("Временной шаг: {0}", working_time);
             Console.WriteLine("Интенсивность потока заявок: {0}", applications_intensity);
             Console.WriteLine("Интенсивность потока обслуживаний: {0}", service_intensity);
-            double some_sum = 0;
-            for (int i = 1; i < capacity; i++)
-                some_sum += Math.Pow(applications_intensity / service_intensity, i) / factorial(i);
-            Console.WriteLine("Вероятность простоя системы: {0}", Math.Round(1 / some_sum, 4));
-            double Pn = Math.Pow(applications_intensity / service_intensity, capacity) / factorial(capacity) / some_sum;
+
+            Console.WriteLine("Расчет по формулам:");
+
+            Console.WriteLine("Вероятность простоя системы: {0}", Math.Round(P0, 4));
             Console.WriteLine("Вероятность отказа системы: {0}", Math.Round(Pn, 4));
             Console.WriteLine("Относительная пропускная способность: {0}", Math.Round(1 - Pn, 4));
             Console.WriteLine("Абсолютная пропускная способность: {0}", Math.Round(applications_intensity * (1 - Pn), 4));
