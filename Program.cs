@@ -117,7 +117,7 @@ namespace mod_lab07_server
             //Console.WriteLine("{0}",Thread.CurrentThread.Name);
             Thread.Sleep(waiting);
             //}
-            for (int i = 0; i < active_potocs; i++)
+            for (int i = 0; i < count_potok; i++)
             {
                 if (pool[i].thread == Thread.CurrentThread)
                     pool[i].in_use = false;
