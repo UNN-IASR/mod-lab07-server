@@ -1,0 +1,22 @@
+Theoretical calculation:
+The intensity of applications: 16
+Service intensity: 10
+The reduced intensity of applications: 1,6
+The probability of downtime: 0,20312344272027247
+Probability of failure: 0,017749197256154373
+Relative throughput: 0,9822508027438456
+Absolute throughput: 15,71601284390153
+Average number of busy threads: 1,571601284390153
+
+The results obtained by the program:
+The intensity of applications: 15,9821000479463
+Service intensity: 9,87202925045704
+The reduced intensity of applications: 1,6189275418938196
+The probability of downtime: 0,19938331130019218
+Probability of failure: 0,018477559778334974
+Relative throughput: 0,981522440221665
+Absolute throughput: 15,686789838927043
+Average number of busy threads: 1,5890137114616836
+
+Вывод: результаты при теоретических и практических расчётах очень близки,
+если их округлить, то практически все значения совпадают
