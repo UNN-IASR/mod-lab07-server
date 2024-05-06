@@ -141,7 +141,7 @@ namespace Laba7
             Console.WriteLine($"Всего : {server.count_request}. Выполнено: {server.count_process}. Отклонено: {server.count_reject}", Encoding.UTF8);
             for (int i = 0; i < serv; ++i)
             {
-                Console.WriteLine($"Потоком {i + 1} выполнено {server.getCount(i)}. Время простоя {server.getWait(i)} ", Encoding.UTF8);
+                Console.WriteLine($"Поток№{i + 1} выполнено {server.getCount(i)}. Время простоя {server.getWait(i)} ", Encoding.UTF8);
             }
 
             double p = (double)cli / serv;
