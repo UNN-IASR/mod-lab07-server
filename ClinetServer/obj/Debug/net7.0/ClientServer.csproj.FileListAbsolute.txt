@@ -1,0 +1,14 @@
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\bin\Debug\net7.0\ClientServer.exe
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\bin\Debug\net7.0\ClientServer.deps.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\bin\Debug\net7.0\ClientServer.runtimeconfig.json
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\bin\Debug\net7.0\ClientServer.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\bin\Debug\net7.0\ClientServer.pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.AssemblyInfoInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.AssemblyInfo.cs
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\refint\ClientServer.dll
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.pdb
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ClientServer.genruntimeconfig.cache
+C:\Users\prusa\OneDrive\Рабочий стол\Учеба\Учеба\Штанюк\lab 7\mod-lab07-server\ClinetServer\obj\Debug\net7.0\ref\ClientServer.dll
