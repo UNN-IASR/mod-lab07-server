@@ -12,15 +12,15 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            const int client_intensity = 1;
-            const int server_intensity = 1;
-            const int n = 3;
+            const int client_intensity = 7;
+            const int server_intensity = 3;
+            const int n = 2;
             Server server = new Server(n, server_intensity);
             Thread myThread = new Thread(server.Run);
             myThread.Start();
             Client client = new Client(server);
             client.intensity = client_intensity;
-            client.Run(1200);
+            client.Run(100);
             int rejected;
             int handled;
             client.Statistics(out rejected, out handled);

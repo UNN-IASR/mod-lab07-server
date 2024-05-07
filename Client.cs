@@ -11,7 +11,7 @@ namespace Lab07
     class Client
     {
         int port; // порт сервера
-        static string address = "100.75.31.173"; // адрес сервера
+        static string address = "26.215.247.83"; // your ip here
         public float intensity = 1.0f;
         int currentMessageID = 0;
         int handledMessages = 0;

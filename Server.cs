@@ -75,8 +75,6 @@ namespace Lab07
             Console.WriteLine(DateTime.Now.ToShortTimeString() + ": " + message.message + " by thread " + message.id);
             int id = message.id;
             var halr = handlers[id];
-            //if (threads[id].ThreadState == ThreadState.Running)
-            threads[id].Join();
             threads[id] = new Thread(() => halr.Run(current));
         }
         public void Run()
@@ -131,7 +129,7 @@ namespace Lab07
                     current = builder.ToString();
                     for (int i = 0; i < threads.Length; i++)
                     {
-                        if (handlers[i].isFree())
+                        if (handlers[i].isFree() && !threads[i].IsAlive)
                         {
                             handled = true;
                             threads[i].Start();
