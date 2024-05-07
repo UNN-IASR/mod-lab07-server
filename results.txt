@@ -1,0 +1,27 @@
+Theory:
+The level of practical use: 27
+System rate: 10
+The diminished level of usage: 2,7
+The likelihood of system interruptions: 0,07124750226295425
+Likelihood of breakdown: 0,08519364866278505
+Relative throughput: 0,914806351337215
+Absolute throughput: 24,699771486104805
+Mean count of active threads: 2,4699771486104805
+
+
+Requests amount: 200
+Processed requests: 71
+Rejected requests: 129
+
+Final results:
+The level of practical use: 26,96871628910464
+System rate: 9,83702833651446
+The diminished level of usage: 2,741551143956593
+The likelihood of system interruptions: 0,0685948664602611
+Likelihood of breakdown: 0,08853033945560337
+Relative throughput: 0,9114696605443966
+Absolute throughput: 24,581166681348346
+Mean count of active threads: 2,498840690547218
+
+
+По итогу мы получам данные, которые при теоретических расчетах, близки к данным, полученным практическим путем.
