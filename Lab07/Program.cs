@@ -1,4 +1,4 @@
-using System.Diagnostics;
+п»їusing System.Diagnostics;
 namespace TPProj
 {
     class Program
@@ -23,9 +23,9 @@ namespace TPProj
             }
 
             Console.WriteLine();
-            Console.WriteLine("Всего заявок: {0}", server.requestCount);
-            Console.WriteLine("Обработано заявок: {0}", server.processedCount);
-            Console.WriteLine("Отклонено заявок: {0}", server.rejectedCount);
+            Console.WriteLine("Р’СЃРµРіРѕ Р·Р°СЏРІРѕРє: {0}", server.requestCount);
+            Console.WriteLine("РћР±СЂР°Р±РѕС‚Р°РЅРѕ Р·Р°СЏРІРѕРє: {0}", server.processedCount);
+            Console.WriteLine("РћС‚РєР»РѕРЅРµРЅРѕ Р·Р°СЏРІРѕРє: {0}", server.rejectedCount);
             Console.WriteLine();
 
             double lambda = Math.Pow(periods.Average() / 1000, -1);
@@ -68,15 +68,15 @@ namespace TPProj
             double A = lambda * Q;
             double k = A / mew;
 
-            Console.WriteLine("Теоретические рассчеты:");
-            Console.WriteLine("Интенсивность поступления требований: {0:0.0000}", lambda);
-            Console.WriteLine("Интенсивность обслуживания требований: {0:0.0000}", mew);
-            Console.WriteLine("Приведенная интенсивность потока заявок: {0:0.0000}", p);
-            Console.WriteLine("Вероятность простоя системы: {0:0.0000}", P0);
-            Console.WriteLine("Вероятность отказа системы: {0:0.0000}", Pn);
-            Console.WriteLine("Относительная пропускная способность: {0:0.0000}", Q);
-            Console.WriteLine("Абсолютная пропускная способность: {0:0.0000}", A);
-            Console.WriteLine("Среднее число занятых каналов: {0:0.0000}", k);
+            Console.WriteLine("РўРµРѕСЂРµС‚РёС‡РµСЃРєРёРµ СЂР°СЃСЃС‡РµС‚С‹:");
+            Console.WriteLine("РРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РїРѕСЃС‚СѓРїР»РµРЅРёСЏ С‚СЂРµР±РѕРІР°РЅРёР№: {0:0.0000}", lambda);
+            Console.WriteLine("РРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РѕР±СЃР»СѓР¶РёРІР°РЅРёСЏ С‚СЂРµР±РѕРІР°РЅРёР№: {0:0.0000}", mew);
+            Console.WriteLine("РџСЂРёРІРµРґРµРЅРЅР°СЏ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РїРѕС‚РѕРєР° Р·Р°СЏРІРѕРє: {0:0.0000}", p);
+            Console.WriteLine("Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РїСЂРѕСЃС‚РѕСЏ СЃРёСЃС‚РµРјС‹: {0:0.0000}", P0);
+            Console.WriteLine("Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РѕС‚РєР°Р·Р° СЃРёСЃС‚РµРјС‹: {0:0.0000}", Pn);
+            Console.WriteLine("РћС‚РЅРѕСЃРёС‚РµР»СЊРЅР°СЏ РїСЂРѕРїСѓСЃРєРЅР°СЏ СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ: {0:0.0000}", Q);
+            Console.WriteLine("РђР±СЃРѕР»СЋС‚РЅР°СЏ РїСЂРѕРїСѓСЃРєРЅР°СЏ СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ: {0:0.0000}", A);
+            Console.WriteLine("РЎСЂРµРґРЅРµРµ С‡РёСЃР»Рѕ Р·Р°РЅСЏС‚С‹С… РєР°РЅР°Р»РѕРІ: {0:0.0000}", k);
             Console.WriteLine("\n");
         }
 
@@ -89,15 +89,15 @@ namespace TPProj
             double A = lambda * Q;
             double k = A / mew;
 
-            Console.WriteLine("Практические результаты:");
-            Console.WriteLine("Интенсивность поступления требований: {0:0.0000}", lambda);
-            Console.WriteLine("Интенсивность обслуживания требований: {0:0.0000}", mew);
-            Console.WriteLine("Приведенная интенсивность потока заявок: {0:0.0000}", p);
-            Console.WriteLine("Вероятность простоя системы: {0:0.0000}", P0);
-            Console.WriteLine("Вероятность отказа системы: {0:0.0000}", Pn);
-            Console.WriteLine("Относительная пропускная способность: {0:0.0000}", Q);
-            Console.WriteLine("Абсолютная пропускная способность: {0:0.0000}", A);
-            Console.WriteLine("Среднее число занятых каналов: {0:0.0000}", k);
+            Console.WriteLine("РџСЂР°РєС‚РёС‡РµСЃРєРёРµ СЂРµР·СѓР»СЊС‚Р°С‚С‹:");
+            Console.WriteLine("РРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РїРѕСЃС‚СѓРїР»РµРЅРёСЏ С‚СЂРµР±РѕРІР°РЅРёР№: {0:0.0000}", lambda);
+            Console.WriteLine("РРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РѕР±СЃР»СѓР¶РёРІР°РЅРёСЏ С‚СЂРµР±РѕРІР°РЅРёР№: {0:0.0000}", mew);
+            Console.WriteLine("РџСЂРёРІРµРґРµРЅРЅР°СЏ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚СЊ РїРѕС‚РѕРєР° Р·Р°СЏРІРѕРє: {0:0.0000}", p);
+            Console.WriteLine("Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РїСЂРѕСЃС‚РѕСЏ СЃРёСЃС‚РµРјС‹: {0:0.0000}", P0);
+            Console.WriteLine("Р’РµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РѕС‚РєР°Р·Р° СЃРёСЃС‚РµРјС‹: {0:0.0000}", Pn);
+            Console.WriteLine("РћС‚РЅРѕСЃРёС‚РµР»СЊРЅР°СЏ РїСЂРѕРїСѓСЃРєРЅР°СЏ СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ: {0:0.0000}", Q);
+            Console.WriteLine("РђР±СЃРѕР»СЋС‚РЅР°СЏ РїСЂРѕРїСѓСЃРєРЅР°СЏ СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ: {0:0.0000}", A);
+            Console.WriteLine("РЎСЂРµРґРЅРµРµ С‡РёСЃР»Рѕ Р·Р°РЅСЏС‚С‹С… РєР°РЅР°Р»РѕРІ: {0:0.0000}", k);
             Console.WriteLine("\n");
         }
     }
@@ -121,7 +121,7 @@ namespace TPProj
         {
             lock (threadLock)
             {
-                Console.WriteLine("Заявка с номером: {0}", e.id);
+                Console.WriteLine("Р—Р°СЏРІРєР° СЃ РЅРѕРјРµСЂРѕРј: {0}", e.id);
                 requestCount++;
                 for (int i = 0; i < 5; i++)
                 {
@@ -143,7 +143,7 @@ namespace TPProj
             var timer = Stopwatch.StartNew();
             int id = (int)arg;
 
-            Console.WriteLine("Обработка заявки: {0}", id);
+            Console.WriteLine("РћР±СЂР°Р±РѕС‚РєР° Р·Р°СЏРІРєРё: {0}", id);
             Thread.Sleep(500);
 
             for (int i = 0; i < 5; i++)
