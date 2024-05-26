@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\Lab07.exe
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\Lab07.deps.json
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\Lab07.runtimeconfig.json
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\Lab07.dll
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\Lab07.pdb
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.AssemblyInfo.cs
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.csproj.Up2Date
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.dll
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\refint\Lab07.dll
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.pdb
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\Lab07.genruntimeconfig.cache
+C:\Users\Admin\source\repos\МИПС лабы\7\mod-lab07-server\Lab07\Lab07\obj\Debug\net8.0\ref\Lab07.dll
