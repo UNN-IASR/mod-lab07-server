@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FIpt2YhGgyc=",
+  "dgSpecHash": "22anWbzOJkg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\3.7.304.5\\awssdk.core.3.7.304.5.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\awssdk.core\\3.7.304.5\\awssdk.core.3.7.304.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }

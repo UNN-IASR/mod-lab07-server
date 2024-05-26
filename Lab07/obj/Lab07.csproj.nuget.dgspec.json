@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07.csproj",
         "projectName": "Lab07",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\Lab07\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\МИПС лабы\\7\\mod-lab07-server\\Lab07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "AWSSDK.Core": {
               "target": "Package",
@@ -61,12 +61,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.19, 7.0.19]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

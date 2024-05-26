@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|c:\\users\\admin\\source\\repos\\\u043C\u0438\u043F\u0441 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\lab07\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|c:\\users\\admin\\source\\repos\\\u043C\u0438\u043F\u0441 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\lab07\\lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|solutionrelative:lab07\\lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|c:\\users\\admin\\source\\repos\\\u043C\u0438\u043F\u0441 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\lab07\\lab07\\lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|solutionrelative:lab07\\lab07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|c:\\users\\admin\\source\\repos\\\u043C\u0438\u043F\u0441 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9A80D3-D987-4C86-90E8-72A40101247D}|Lab07\\Lab07.csproj|solutionrelative:lab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lab07",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj",
+              "DocumentIndex": 0,
+              "Title": "Lab07.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07.csproj",
               "RelativeDocumentMoniker": "Lab07\\Lab07.csproj",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07\\Lab07.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07.csproj",
               "RelativeToolTip": "Lab07\\Lab07.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-26T19:41:36.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Program.cs",
               "RelativeDocumentMoniker": "Lab07\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Lab07\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\\u041C\u0418\u041F\u0421 \u043B\u0430\u0431\u044B\\7\\mod-lab07-server\\Lab07\\Program.cs",
               "RelativeToolTip": "Lab07\\Program.cs",
-              "ViewState": "AQIAALMAAAAAAAAAAAAkwMEAAAA6AAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAMEAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T19:38:13.641Z",
               "EditorCaption": ""
