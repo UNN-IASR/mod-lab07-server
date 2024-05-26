@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab07/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.304.5"
+        },
+        "runtime": {
+          "Lab07.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.304.5": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.304.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.304.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tp6Bvbok1Ev55tCRlkTRzxj+QyfyXiFG3noptLtorZEF9Gn0jvdl2ixvkGGVyZFagd0kyJDdvyrfcmPvG49RwA==",
+      "path": "awssdk.core/3.7.304.5",
+      "hashPath": "awssdk.core.3.7.304.5.nupkg.sha512"
+    }
+  }
+}
