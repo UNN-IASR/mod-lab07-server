@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>lab07</RootNamespace>
     <AssemblyName>lab07</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v7.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
